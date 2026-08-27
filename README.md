@@ -27,5 +27,6 @@ CLAUDE.md # 이 저장소에서 답변/문서 작성 시 따르는 규칙
 | 03 | [시크릿엔진](./notes/03_시크릿엔진.md) | Static/Dynamic Secrets, KV, Database, PKI, Transit |
 | 04 | [정책](./notes/04_정책.md) | ACL Policy, Capabilities, Templated Policy, Sentinel |
 | 05 | [운영](./notes/05_운영.md) | 설치, Seal/Unseal, HA, 백업/복구 |
+| 06 | [대기업 실제 사용사례](./notes/06_실제사용사례.md) | Adobe/Starbucks/athenahealth의 Vault 프로덕션 운영 사례 |
 
 > 일부 번호는 실제 프로젝트의 민감한 구현 정보를 포함한 비공개 학습 문서로 `.gitignore` 처리되어 있어 이 저장소에는 포함되지 않을 수 있습니다.
